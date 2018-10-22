@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Make-It-All Helpdesk</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="main.css">
+ </head>
+
+<body>
+        <div class="w3-display-middle w3-card w3-white w3-padding-large w3-round-xlarge">
+                <div class="w3-padding" style="text-align: center;">
+                    <div class="w3-container">
+                        <h2> Patrick Star's Feedback </h2>
+                        <p style="border-left: 1rem solid orange; background-color: #ffd280; padding: 0.5rem;"> Hardware/Desktop/Driver Issue</p>
+                        <form>
+                            <textarea style="width: 80%; height: 15rem; resize: none;" class="w3-center w3-border w3-pale-yellow w3-round-large w3-padding">Dear Patrick Star, Sincerely Alice Yokohama</textarea>
+                        </form>
+                    </div>
+                    <a href="main" class="w3-margin-top w3-button w3-border w3-hover-red w3-margin-bottom w3-padding-large w3-round-xxlarge"> < Back </a>
+                    <a href="recurring-call-done" class="w3-margin-top w3-button w3-large w3-border w3-hover-green w3-margin-bottom w3-padding-large w3-round-xxlarge"> Send </a>
+                    <br>
+                 </div>
+             </div>
+</body>
+</html>
